@@ -7,14 +7,14 @@
   duration: January, 2018 &mdash; Present
   # url: "#"
   description: Designing, creating, and programming an original java based application. Application will randomly generate designs using a collection of shapes and colors. Three upcoming goals include adding the generate design functionality, implementing MongoDB to store the generated designs, and allowing user interface to scale in size.
-  
+
 # Makerspace Capstone
 - project: Makerspace Capstone
   role: Group Project
   duration: January, 2018 &mdash; May, 2018
   # url: "#"
   description: Created a 'Laundry Assistant' device and documented the process into a comprehensive tutorial for the UPS Makerspace that students can replicate to familiarize themselves with available technologies.
-  
+
   # Crave - UX Design
 - project: Crave - UX Design
   role: Group Project
@@ -27,28 +27,28 @@
   role: Group Project
   duration: April, 2017 &mdash; May, 2017
   # url: "#"
-  description: Served as assistant software developer for a group project in Budapest, Hungary. The project used firebase on the Android platform in order to create a multi-player mobile version of Pictionary called 'IDoodle'. Main focuses of this project included <ul><li>Login/Register activity</li><li>RecyclerView of games in lobby activity</li><li>User details page</li><li>CustomView for the game activity</li><li>RecyclerView in navigation drawer</li><li>Firebase database</li></ul> This project was featured at the end of the semester. #(https://goo.gl/GUq8Js) 
+  description: Served as assistant software developer for a group project in Budapest, Hungary. The project used firebase on the Android platform in order to create a multi-player mobile version of Pictionary called 'IDoodle'. Main focuses of this project included <ul><li>Login/Register activity</li><li>RecyclerView of games in lobby activity</li><li>User details page</li><li>CustomView for the game activity</li><li>RecyclerView in navigation drawer</li><li>Firebase database</li></ul> This project was featured at the end of the semester. #(https://goo.gl/GUq8Js)
 
   # Minesweeper - Android Application
 - project: Minesweeper - Android Application
   role: Individual Project
   duration: January, 2017 &mdash; February, 2017
   # url: "#"
-  description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul> #<img src="/images/minesweeper1.png" alt="Minesweeper Screenshot 1"> <img src="/images/minesweeper2.png" alt="Minesweeper Screenshot 2">
+  description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul> <img class="demo" src="/images/minesweeper1.png" alt="Minesweeper Screenshot 1"> <img class="demo" src="/images/minesweeper2.png" alt="Minesweeper Screenshot 2">
 
  # Shopping Cart - Android Application
 - project: Shopping Cart - Android Application
   role: Individual Project
   duration: February, 2017 &mdash; March, 2017
   # url: "#"
-  description: Created an android Shopping Cart application using Android Studio. Main focuses of this project included <ul><li>Multiple activities</li><li>Lists (RecyclerView)</li><li>Animations</li><li>Persistence data storage</li></ul> #<img src="/images/shoppingcart1.png" alt="Shopping Cart Screenshot 1"> <img src="/images/shoppingcart2.png" alt="Shopping Cart Screenshot 2"> <img src="/images/shoppingcart3.png" alt="Shopping Cart Screenshot 3">
+  description: Created an android Shopping Cart application using Android Studio. Main focuses of this project included <ul><li>Multiple activities</li><li>Lists (RecyclerView)</li><li>Animations</li><li>Persistence data storage</li></ul> #<img class="demo" src="/images/shoppingcart1.png" alt="Shopping Cart Screenshot 1"> <img class="demo" src="/images/shoppingcart2.png" alt="Shopping Cart Screenshot 2"> <img class="demo" src="/images/shoppingcart3.png" alt="Shopping Cart Screenshot 3">
 
  # Weather Information - Android Application
 - project: Weather Information - Android Application
   role: Individual Project
   duration: March, 2017 &mdash; April, 2017
   # url: "#"
-  description: Created an android Weather Information application using Android Studio. Main focuses of this project included <ul><li>Network Communication</li><li>Http</li><li>JSON Parsing</li><li>External libraries (Retrofit, GSON, EventBus, Glide)</li></ul> # <img src="/images/weatherinfo1.png" alt="Weather Information Screenshot 1"> <img src="/images/weatherinfo2.png" alt="Weather Information Screenshot 2"> <img src="/images/weatherinfo3.png" alt="Weather Information Screenshot 3">
+  description: Created an android Weather Information application using Android Studio. Main focuses of this project included <ul><li>Network Communication</li><li>Http</li><li>JSON Parsing</li><li>External libraries (Retrofit, GSON, EventBus, Glide)</li></ul> # <img class="demo" src="/images/weatherinfo1.png" alt="Weather Information Screenshot 1"> <img class="demo" src="/images/weatherinfo2.png" alt="Weather Information Screenshot 2"> <img class="demo" src="/images/weatherinfo3.png" alt="Weather Information Screenshot 3">
 
   # 'NudeGoose!' - Web Application
 - project: NudeGoose! - Web Application
