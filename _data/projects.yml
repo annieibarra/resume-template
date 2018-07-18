@@ -1,16 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Random Design Generator - Self-Managed Project
+- project: Random Design Generator
+  role: Self-Managed Project
+  duration: January 2018 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Designing, creating, and programming an original java based application. Application will randomly generate designs using a collection of shapes and colors. Three upcoming goals: add the generate design functionality, use MongoDB to store the generated designs, allow user interface to scale in size.
+  
+# Makerspace Capstone
+- project: Makerspace Capstone
+  role: Group Project
+  duration: January 2018 &mdash; May 2018
+  # url: "#"
+  description: Created a 'Laundry Assistant' device and documented the process into a comprehensive tutorial for the UPS Makerspace that students can replicate to familiarize themselves with available technologies.
+  
+  # 'IDoodle' - Firebase Application
+- project: 'IDoodle' - Firebase Application
+  role: Group Project
+  duration: April 2017 &mdash; May 2017
+  # url: "#"
+  description: Served as assistant software developer for a group project in Budapest, Hungary. The project used firebase on the Android platform in order to create a mobile version of Pictionary called 'IDoodle'. This project was featured at the end of the semester (https://goo.gl/GUq8Js). 
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  # Crave - UX Design
+- project: Crave - UX Design
+  role: Group Project
+  duration: January 2017 &mdash; May 2017
+  url: "https://prezi.com/view/TbZTcppB03FN0y4u75Rk/"
+  description: Created a prototype for an iOS mobile application called Crave. The application is aiming to provide recipes to people who enjoy cooking but need a little guidance on what to make. Went through each stage of UX design, from ideate to refining the prototype after conducting multiple usability tests. Project was presented at the end of the semester.
+
+  # 'NudeGoose!' - Web Application
+- project: 'NudeGoose!' - Web Application
+  role: Group Project
+  duration: October 2016 &mdash; December 2016
+  url: "https://github.com/UPS-CSCI240-F16/TeamjaAAAAAAAAAAAilz"
+  description: Served as web developer and scrum master in a group project during my fall semester of my junior year at University of Puget Sound. 'NudeGoose' is a web based interactive chatbot that takes user input, finds keywords, then makes suggestions based on user input. Project was presented at the end of the semester.
