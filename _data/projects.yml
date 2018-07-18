@@ -34,7 +34,7 @@
   role: Individual Project
   duration: January 2017 &mdash; February 2017
   # url: "#"
-  description: <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul>
+  description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul>
 
   # 'NudeGoose!' - Web Application
 - project: NudeGoose! - Web Application
