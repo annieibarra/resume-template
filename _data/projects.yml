@@ -4,55 +4,55 @@
 # Random Design Generator - Self-Managed Project
 - project: Random Design Generator
   role: Self-Managed Project
-  duration: January 2018 &mdash; Present
+  duration: January, 2018 &mdash; Present
   # url: "#"
   description: Designing, creating, and programming an original java based application. Application will randomly generate designs using a collection of shapes and colors. Three upcoming goals include adding the generate design functionality, implementing MongoDB to store the generated designs, and allowing user interface to scale in size.
   
 # Makerspace Capstone
 - project: Makerspace Capstone
   role: Group Project
-  duration: January 2018 &mdash; May 2018
+  duration: January, 2018 &mdash; May, 2018
   # url: "#"
   description: Created a 'Laundry Assistant' device and documented the process into a comprehensive tutorial for the UPS Makerspace that students can replicate to familiarize themselves with available technologies.
   
   # Crave - UX Design
 - project: Crave - UX Design
   role: Group Project
-  duration: January 2017 &mdash; May 2017
+  duration: January, 2017 &mdash; May, 2017
   url: "https://prezi.com/view/TbZTcppB03FN0y4u75Rk/"
   description: Created a prototype for an iOS mobile application called Crave. The application is aiming to provide recipes to people who enjoy cooking but need a little guidance on what to make. Went through each stage of UX design, from ideate to refining the prototype after conducting multiple usability tests. Project was presented at the end of the semester.
 
   # 'IDoodle' - Firebase Application
 - project: IDoodle - Firebase Application
   role: Group Project
-  duration: April 2017 &mdash; May 2017
+  duration: April, 2017 &mdash; May, 2017
   # url: "#"
   description: Served as assistant software developer for a group project in Budapest, Hungary. The project used firebase on the Android platform in order to create a mobile version of Pictionary called 'IDoodle'. This project was featured at the end of the semester (https://goo.gl/GUq8Js). 
 
   # Minesweeper - Android Application
 - project: Minesweeper - Android Application
   role: Individual Project
-  duration: January 2017 &mdash; February 2017
+  duration: January, 2017 &mdash; February, 2017
   # url: "#"
   description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul>
 
  # Shopping Cart - Android Application
 - project: Shopping Cart - Android Application
   role: Individual Project
-  duration: February 2017 &mdash; March 2017
+  duration: February, 2017 &mdash; March, 2017
   # url: "#"
   description: Created an android Shopping Cart application using Android Studio. Main focuses of this project included <ul><li>Multiple activities</li><li>Lists (RecyclerView)</li><li>Animations</li><li>Persistence data storage</li></ul>
 
  # Weather Information - Android Application
 - project: Weather Information - Android Application
   role: Individual Project
-  duration: March 2017 &mdash; April 2017
+  duration: March, 2017 &mdash; April, 2017
   # url: "#"
   description: Created an android Weather Information application using Android Studio. Main focuses of this project included <ul><li>Network Communication</li><li>Http</li><li>JSON Parsing</li><li>External libraries (Retrofit, GSON, EventBus, Glide)</li></ul>
 
   # 'NudeGoose!' - Web Application
 - project: NudeGoose! - Web Application
   role: Group Project
-  duration: October 2016 &mdash; December 2016
+  duration: October, 2016 &mdash; December, 2016
   url: "https://github.com/UPS-CSCI240-F16/TeamjaAAAAAAAAAAAilz"
   description: Served as web developer and scrum master in a group project during my fall semester of my junior year at University of Puget Sound. 'NudeGoose' is a web based interactive chatbot that takes user input, finds keywords, then makes suggestions based on user input. Project was presented at the end of the semester.
