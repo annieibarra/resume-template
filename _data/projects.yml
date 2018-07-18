@@ -26,7 +26,7 @@
 - project: IDoodle - Firebase Application
   role: Group Project
   duration: April, 2017 &mdash; May, 2017
-  # url: "#"
+  url: "/IDoodle.pdf"
   description: Served as assistant software developer for a group project in Budapest, Hungary. The project used firebase on the Android platform in order to create a multi-player mobile version of Pictionary called 'IDoodle'. Main focuses of this project included <ul><li>Login/Register activity</li><li>RecyclerView of games in lobby activity</li><li>User details page</li><li>CustomView for the game activity</li><li>RecyclerView in navigation drawer</li><li>Firebase database</li></ul> This project was featured at the end of the semester. #(https://goo.gl/GUq8Js)
 
   # Minesweeper - Android Application
