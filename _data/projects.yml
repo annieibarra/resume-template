@@ -6,7 +6,7 @@
   role: Self-Managed Project
   duration: January 2018 &mdash; Present
   # url: "#"
-  description: Designing, creating, and programming an original java based application. Application will randomly generate designs using a collection of shapes and colors. Three upcoming goals: add the generate design functionality, use MongoDB to store the generated designs, allow user interface to scale in size.
+  description: Designing, creating, and programming an original java based application. Application will randomly generate designs using a collection of shapes and colors. Three upcoming goals include adding the generate design functionality, implementing MongoDB to store the generated designs, and allowing user interface to scale in size.
   
 # Makerspace Capstone
 - project: Makerspace Capstone
