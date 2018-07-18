@@ -34,21 +34,21 @@
   role: Individual Project
   duration: January, 2017 &mdash; February, 2017
   # url: "#"
-  description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul> <img src="/images/minesweeper1.png" alt="Minesweeper Screenshot 1"> <img src="/images/minesweeper2.png" alt="Minesweeper Screenshot 2">
+  description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul> #<img src="/images/minesweeper1.png" alt="Minesweeper Screenshot 1"> <img src="/images/minesweeper2.png" alt="Minesweeper Screenshot 2">
 
  # Shopping Cart - Android Application
 - project: Shopping Cart - Android Application
   role: Individual Project
   duration: February, 2017 &mdash; March, 2017
   # url: "#"
-  description: Created an android Shopping Cart application using Android Studio. Main focuses of this project included <ul><li>Multiple activities</li><li>Lists (RecyclerView)</li><li>Animations</li><li>Persistence data storage</li></ul> <img src="/images/shoppingcart1.png" alt="Shopping Cart Screenshot 1"> <img src="/images/shoppingcart2.png" alt="Shopping Cart Screenshot 2"> <img src="/images/shoppingcart3.png" alt="Shopping Cart Screenshot 3">
+  description: Created an android Shopping Cart application using Android Studio. Main focuses of this project included <ul><li>Multiple activities</li><li>Lists (RecyclerView)</li><li>Animations</li><li>Persistence data storage</li></ul> #<img src="/images/shoppingcart1.png" alt="Shopping Cart Screenshot 1"> <img src="/images/shoppingcart2.png" alt="Shopping Cart Screenshot 2"> <img src="/images/shoppingcart3.png" alt="Shopping Cart Screenshot 3">
 
  # Weather Information - Android Application
 - project: Weather Information - Android Application
   role: Individual Project
   duration: March, 2017 &mdash; April, 2017
   # url: "#"
-  description: Created an android Weather Information application using Android Studio. Main focuses of this project included <ul><li>Network Communication</li><li>Http</li><li>JSON Parsing</li><li>External libraries (Retrofit, GSON, EventBus, Glide)</li></ul> <img src="/images/weatherinfo1.png" alt="Weather Information Screenshot 1"> <img src="/images/weatherinfo2.png" alt="Weather Information Screenshot 2"> <img src="/images/weatherinfo3.png" alt="Weather Information Screenshot 3">
+  description: Created an android Weather Information application using Android Studio. Main focuses of this project included <ul><li>Network Communication</li><li>Http</li><li>JSON Parsing</li><li>External libraries (Retrofit, GSON, EventBus, Glide)</li></ul> # <img src="/images/weatherinfo1.png" alt="Weather Information Screenshot 1"> <img src="/images/weatherinfo2.png" alt="Weather Information Screenshot 2"> <img src="/images/weatherinfo3.png" alt="Weather Information Screenshot 3">
 
   # 'NudeGoose!' - Web Application
 - project: NudeGoose! - Web Application
