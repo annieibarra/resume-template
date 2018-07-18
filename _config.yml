@@ -51,8 +51,9 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/annettecristinaibarra/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "/Untitled003.pdf"
+  # resume_website_url:           "/Untitled003.pdf"
   # resume_medium_url:            "https://medium.com/@jglovier"
+  resume_pdf_url:                 "/Untitled003.pdf"
 resume_print_social_links:      true
 
 # Design settings
