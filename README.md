@@ -3,7 +3,7 @@
 *A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/screenshot.png)
-Find my webpage [here](annetteibarra.com)
+
 
 ## Docs
 
