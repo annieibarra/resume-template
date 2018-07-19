@@ -1,8 +1,9 @@
 # Resume template
 
-*A simple Jekyll + GitHub Pages powered resume template. Find my webpage [here](annetteibarra.com)*
+*A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/screenshot.png)
+Find my webpage [here](annetteibarra.com)
 
 ## Docs
 
