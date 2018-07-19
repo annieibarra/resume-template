@@ -119,11 +119,6 @@
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
-          <div class="demo-images-grid">
-            <img class="demoimg">{% if project.demo1 %}<a src="{{ project.demo1 }}" alt="Demo 1"/>
-            <img src="{{ project.demo2 }}" alt="Demo 2"/>
-            <img src="{{ project.demo3 }}" alt="Demo 3"/>
-          </div>
         </div>
         {% endfor %}
 
