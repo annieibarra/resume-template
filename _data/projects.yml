@@ -34,7 +34,7 @@
   role: Individual Project
   duration: January, 2017 &mdash; February, 2017
   # url: "#"
-  description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul> <img class="demo" src="/images/minesweeper1.png" alt="Minesweeper Screenshot 1" style="width:200px;height:325px;"> <img class="demo" src="/images/minesweeper2.png" alt="Minesweeper Screenshot 2" style="width:200px;height:325px;">
+  description: Created an android Minesweeper application using Android Studio. Main focuses of this project included <ul><li>Activity creation</li><li>Creating XML</li><li>UI Drawing on CustomViews</li><li>Applying basic view components</li></ul> <img class="demo" src="/images/minesweeper1.png" alt="Minesweeper Screenshot 1" style="width:175px;height:300px;"> <img class="demo" src="/images/minesweeper2.png" alt="Minesweeper Screenshot 2" style="width:175px;height:300px;">
 
  # Shopping Cart - Android Application
 - project: Shopping Cart - Android Application
