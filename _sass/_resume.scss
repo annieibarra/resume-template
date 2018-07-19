@@ -175,9 +175,9 @@
 
   .demo-images-grid {
     display: grid;
-    grid-template-columns: 250px 250px;
-    grid-template-rows: repeat(3, 450px);
-    grid-gap: 20px;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: repeat(3, 350px);
+    grid-gap: 10px;
   }
 }
 
