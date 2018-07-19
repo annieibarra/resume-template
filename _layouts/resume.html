@@ -47,7 +47,7 @@
         {% else %}
         {% endif %}
         -->
-         
+
         {% if site.resume_looking_for_work == 'yes' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
@@ -119,6 +119,11 @@
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
+          <div class="demo-images-grid">
+            <img src="{{ project.image }}" alt="Demo 1"/>
+            <img src="{{ project.image }}" alt="Demo 2"/>
+            <img src="{{ project.image }}" alt="Demo 3"/>
+          </div>
         </div>
         {% endfor %}
 
