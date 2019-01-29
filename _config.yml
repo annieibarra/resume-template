@@ -18,9 +18,9 @@ resume_contact_email:           "annie.livinlife11@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "858-344-9587"
-resume_contact_address:         "Santa Monica, CA"
+resume_contact_address:         "Los Angeles, CA"
 
-resume_header_contact_info:     "Santa Monica, CA • 858-344-9587 • annie.livinlife11@gmail.com"
+resume_header_contact_info:     "Los Angeles, CA • 858-344-9587 • annie.livinlife11@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>A self-motivated, creative programmer-turned UX designer with a passion for analytics and the ability to learn quickly. My global training in Computer Science and Mathematics, along with years of collaboration with designers, marketers, and software engineers, offers a holistic approach to design and development. I am eager to work in a team of passionate and fastidious professionals in Developer/UX Design positions. Aiming to find a professional position to both advance and contribute skills as a developer and designer.</p>"
