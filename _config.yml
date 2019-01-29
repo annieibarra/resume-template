@@ -23,7 +23,7 @@ resume_contact_address:         "Escondido, CA"
 resume_header_contact_info:     "Escondido, CA • 858-344-9587 • annie.livinlife11@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Recent graduate in the field of Computer Science and Mathematics. A self-motivated, creative, team player with a passion for analytics and the ability to learn quickly. Aiming to find a professional position to both advance and contribute skills as a programmer and problem solver.</p>"
+resume_header_intro: "<p>A self-motivated, creative programmer-turned UX designer with a passion for analytics and the ability to learn quickly. My global training in Computer Science and Mathematics, along with years of collaboration with designers, marketers, and software engineers, offers a holistic approach to design and development. I am eager to work in a team of passionate and fastidious professionals in Developer/UX Design positions. Aiming to find a professional position to both advance and contribute skills as a developer and designer.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -53,7 +53,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "/Untitled003.pdf"
   # resume_medium_url:            "https://medium.com/@jglovier"
-  resume_pdf_url:                 "/pdfs/Untitled004.pdf"
+  resume_pdf_url:                 "/pdfs/Jan2019_Resume.pdf"
 resume_print_social_links:      true
 
 # Design settings
