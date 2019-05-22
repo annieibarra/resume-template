@@ -1,19 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Random Design Generator - Self-Managed Project
-- project: Random Design Generator
-  role: Self-Managed Project
-  duration: January, 2018 &mdash; Present
-  # url: "#"
-  description: Designing, creating, and programming an original java based application. Application will randomly generate designs using a collection of shapes and colors. Three upcoming goals include adding the generate design functionality, implementing MongoDB to store the generated designs, and allowing user interface to scale in size.
-
 # Makerspace Capstone
 - project: Makerspace Capstone
   role: Group Project
   duration: January, 2018 &mdash; May, 2018
   url: "/pdfs/makerspacecapstone.pdf"
   description: Created a 'Laundry Assistant' device and documented the process into a comprehensive tutorial for the UPS Makerspace that students can replicate to familiarize themselves with available technologies.
+
+# Random Design Generator - Self-Managed Project
+- project: PUMA Innovation Strategy
+  role: Group Project
+  duration: January, 2018 &mdash; May 2018
+  url: "https://prezi.com/view/Qg75VAVdVRI9fbbUdrXK/"
+  description: Created a campaign for PUMA sports based on the needs of our current expectation economy.
 
   # Crave - UX Design
 - project: Crave - UX Design
